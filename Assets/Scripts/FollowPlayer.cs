@@ -11,3 +11,4 @@ public class FollowPlayer : MonoBehaviour
         transform.position = player.position + offset;
     }
 }
+// made by Sandarbh bajpai
