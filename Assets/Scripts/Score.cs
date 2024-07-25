@@ -43,3 +43,4 @@ public class Score : MonoBehaviour
         Debug.Log("Player Z Position: " + player.position.z);
     }
 }
+// made by Sandarbh bajpai
